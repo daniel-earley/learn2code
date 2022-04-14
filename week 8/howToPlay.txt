@@ -1,0 +1,15 @@
+###
+Setup: 
+###
+
+1. git pull the repository or download week 8
+2. Ensure that these 3 files are in the same folder: game.py, hangman.py, words.txt
+
+###
+How to play:
+###
+1. Navigate to the folder where the 3 files are
+2. Run game.py
+- to run from the terminal (command prompt, powershell, etc) use the following command: python3 game.py
+- note that your terminal must also be in the same directory (folder) as the 3 files
+- to run from VS Code simply click the play button
