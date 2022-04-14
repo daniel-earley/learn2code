@@ -13,3 +13,9 @@ How to play:
 - to run from the terminal (command prompt, powershell, etc) use the following command: python3 game.py
 - note that your terminal must also be in the same directory (folder) as the 3 files
 - to run from VS Code simply click the play button
+
+###
+Extras:
+###
+If you want to edit the hangman code that we made during the class, open hangman.py
+For example you can edit the amount of lives the player has by editing the constructor for the player class
